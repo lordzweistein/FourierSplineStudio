@@ -1,0 +1,1 @@
+"""FourierSplineStudio Core Module"""
