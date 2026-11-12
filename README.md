@@ -1,6 +1,6 @@
 # 🌀 Fourier & Spline Studio
 
-Ein interaktives Python-Tool mit moderner macOS-Benutzeroberfläche zum Zeichnen und Modifizieren von **Splines auf einer 2D-XY-Ebene** sowie zur **analytischen Funktionsausgabe über Fourier-Epizyklen** (im Stil von 3Blue1Brown).
+Ein interaktives Python-Tool zum Zeichnen und Modifizieren von **Splines auf einer 2D-XY-Ebene** sowie zur **analytischen Funktionsausgabe über Fourier-Epizyklen** (im Stil von 3Blue1Brown).
 
 ![Screenshot von Fourier & Spline Studio](images/FourierSplineStudio.png)
 
