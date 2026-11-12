@@ -34,7 +34,7 @@ Ein interaktives Python-Tool zum Zeichnen und Modifizieren von **Splines auf ein
 - **Epizyklen-Kette**: Jede Frequenz $k$ wird als rotierender Vektor dargestellt:
   - Radius $R_k = |c_k|$
   - Rotationsfrequenz $\omega_k = 2\pi k$
-  - Phasenverschiebung $\phi_k = \operatorname{arg}(c_k)$
+  - Phasenverschiebung $\phi_k = \arg(c_k)$
 - **Interaktive Steuerung**:
   - Regler für die **Anzahl der Epizyklen (Harmonische $N$)**: Von 1 bis 120+. Beobachte live, wie höhere Harmonische feine Details und Kanten der Kurve rekonstruieren!
   - **Echtzeit-Fehleranzeige**: Mittlerer und maximaler Approximationsfehler in Pixeln ($\Delta L_{avg}, \Delta L_{max}$) sowie Anteil der harmonischen Energie.
